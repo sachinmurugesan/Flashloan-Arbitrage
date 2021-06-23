@@ -1,4 +1,4 @@
-# Flashloan Arbitrage
+# Flashloan Arbitrage, Tested on Kovan - to run on ethereum mainnet just deploy contracts with your mainnet account
 
 In this example we will use the [Money Legos Library](https://money-legos.studydefi.com/#/) to create a flashloan and arbitrage accross several DEXs.
 
